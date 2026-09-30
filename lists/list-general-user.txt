@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# naturalfinchname4/discord-zapret b3523b8ce7fc
